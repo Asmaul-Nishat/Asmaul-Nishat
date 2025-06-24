@@ -6,7 +6,7 @@
 
 
 
-## 📌About Me
+## About Me
 
 - Undergraduate CSE student | Web & Software Development Enthusiast  
 - Currently focused on learning PHP, MySQL, and backend API integration  
@@ -14,7 +14,7 @@
 - Enjoys working on real-world, problem-solving projects
 
   
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asmaul-hosna-nishat/" target="_blank">
@@ -27,7 +27,7 @@
 </p>
 
 
-## 🛠️ Tech Stack <br>
+## Tech Stack <br>
 
 
 <p align="center">
@@ -48,7 +48,7 @@
 
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Nishat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmaul-Nishat&show_icons=true&theme=light&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaul-Nishat&layout=compact&theme=light&hide_border=true)
