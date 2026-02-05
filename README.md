@@ -46,9 +46,3 @@
 </p>
 
 
-
-
-## GitHub Stats
-
-![Nishat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmaul-Nishat&show_icons=true&theme=light&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaul-Nishat&layout=compact&theme=light&hide_border=true)
