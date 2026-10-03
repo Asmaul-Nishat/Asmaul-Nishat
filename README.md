@@ -30,8 +30,6 @@ My main interests are:
 
 - Working with PHP, Laravel, MVC architecture, REST APIs, MySQL and backend application development.
 
-<br>
-
 ## Java Developer Intern
 - New Asia Group
 - Jan 2026 — Apr 2026
